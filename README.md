@@ -4,6 +4,8 @@ A very simple 2D Raycasting experiment using `HTML5 Canvas`.
 
 ![Raycast Image](./.github/raycast.png)
 
+Try the demo [here](https://2d-raycast.netlify.app/)!
+
 ## Getting Started
 
 Simply run the web app by running
